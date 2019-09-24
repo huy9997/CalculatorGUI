@@ -12,7 +12,7 @@ The work flow of this project is below.
 
 **Directions on how to run the code on console**
 
-- Clone the project please run "git clone https://github.com/csc413-02-sp18/csc413-p1-huy9997"
+- Clone the project please run "git clone https://github.com/huy9997/CalculatorGUI/"
 
 Running with Terminal
  
