@@ -2,8 +2,6 @@
 
 Huy Nguyen 
 
-https://github.com/csc413-02-sp18/csc413-p1-huy9997
-
 Calculator with GUI
 
 This is the project contains a Calculator with a GUI written in Java. The project is complete and demonstrates a working Calculator that can be run through a Terminal/Console or GUI. 
